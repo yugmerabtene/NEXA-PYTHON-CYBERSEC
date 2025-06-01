@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Prérequis
+## Prérequis
 
 * Python 3.8+
 * Modules : `re`, `datetime`, `collections`
@@ -24,7 +24,7 @@
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 log-analyzer/
